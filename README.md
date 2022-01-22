@@ -1,4 +1,5 @@
-![Screenshot (28)](https://user-images.githubusercontent.com/93747193/150621106-06ffbd29-8c99-4796-b4d5-51584f2dde9f.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/93747193/150621203-80fbeb9c-93c6-46b9-abbe-366a4bd731d8.png)
+
 # Code-Quiz-
 
 Quiz is to study and practice basic mathematical skills
