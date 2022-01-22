@@ -1,0 +1,26 @@
+[
+    {
+      "question": "What is the command we use to create a new file?",
+      "choice1": "<mkdir>",
+      "choice2": "<cd>",
+      "choice3": "<touch>",
+      "choice4": "<pwd>",
+      "answer": 3
+    },
+    {
+      "question": "What is the correct command to create a new branch?",
+      "choice1": "<git add .>",
+      "choice2": "<git push origin>",
+      "choice3": "<git issues>",
+      "choice4": "<git checkout -b <branch name>",
+      "answer": 3
+    },
+    {
+      "question": "How would you create a box with rounded corners using CSS?",
+      "choice1": "border radius: 50px;",
+      "choice2": "corner-style: round",
+      "choice3": "box-corner: round;",
+      "choice4": "transform: round",
+      "answer": 1
+    }
+  ]
